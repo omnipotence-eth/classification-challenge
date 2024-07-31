@@ -20,7 +20,7 @@ Two models were implemented and compared:
 - Testing Data Score: 0.9227
 
 ### Random Forest Classifier
-- Accuracy Score: 0.9531
+- Accuracy Score: 0.58
 
 The Random Forest Classifier outperformed the Logistic Regression model on this dataset.
 
